@@ -1,1 +1,1 @@
-# CMPE_255_Data_Mining_Assignments
+# CMPE 255 Data Mining Assignments
